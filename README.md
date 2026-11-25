@@ -2,6 +2,8 @@
 
 A Bowstring-built recreation of Kantata (formerly Mavenlink): project dashboard, time tracking, resourcing, and a per-project Gantt/task tracker.
 
+Live demo: https://loom-five-gamma.vercel.app (pushes to `main` auto-deploy here)
+
 ## Running locally
 
 ```bash
